@@ -1,0 +1,3 @@
+D:\обуч материалы, НИКСы\New Folder\schlange\schlange\bin\Debug\schlange.exe.config
+D:\обуч материалы, НИКСы\New Folder\schlange\schlange\obj\Debug\schlange.exe
+D:\обуч материалы, НИКСы\New Folder\schlange\schlange\obj\Debug\schlange.pdb
