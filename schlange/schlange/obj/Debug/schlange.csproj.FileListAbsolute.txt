@@ -4,3 +4,9 @@ D:\обуч материалы, НИКСы\New Folder\schlange\schlange\bin\Debu
 D:\обуч материалы, НИКСы\New Folder\schlange\schlange\obj\Debug\schlange.csprojResolveAssemblyReference.cache
 D:\обуч материалы, НИКСы\New Folder\schlange\schlange\obj\Debug\schlange.exe
 D:\обуч материалы, НИКСы\New Folder\schlange\schlange\obj\Debug\schlange.pdb
+D:\обуч материалы, НИКСы\git-repo\schlange\schlange\bin\Debug\schlange.exe.config
+D:\обуч материалы, НИКСы\git-repo\schlange\schlange\obj\Debug\schlange.exe
+D:\обуч материалы, НИКСы\git-repo\schlange\schlange\obj\Debug\schlange.pdb
+D:\обуч материалы, НИКСы\git-repo\schlange\schlange\bin\Debug\schlange.exe
+D:\обуч материалы, НИКСы\git-repo\schlange\schlange\bin\Debug\schlange.pdb
+D:\обуч материалы, НИКСы\git-repo\schlange\schlange\obj\Debug\schlange.csprojResolveAssemblyReference.cache

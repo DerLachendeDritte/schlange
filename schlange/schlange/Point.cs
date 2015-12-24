@@ -15,7 +15,7 @@ namespace schlange
         public void Draw()
         {
             Console.SetCursorPosition(this.x, this.y);
-            Console.Write(this.sym);
+            Console.Write(sym);
         }
     }
 }
