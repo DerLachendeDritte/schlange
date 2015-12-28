@@ -8,6 +8,7 @@ namespace schlange
 {
     class Point
     {
+
         public int x;
         public int y;
         public char sym;
@@ -25,5 +26,7 @@ namespace schlange
             Console.SetCursorPosition(this.x, this.y);
             Console.Write(sym);
         }
+
+
     }
 }
